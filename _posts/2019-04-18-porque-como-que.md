@@ -4,7 +4,6 @@ date: 2019-04-18T15:34:30-04:00
 position: 1
 toc: true
 toc_label: "Qué hay en esta página"
-toc_icon: "cog"
 categories:
   - ciclos
 tags:
