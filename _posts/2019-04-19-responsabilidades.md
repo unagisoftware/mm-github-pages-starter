@@ -1,6 +1,6 @@
 ---
 title: "Responsabilidades"
-date: 2019-04-19T15:34:30-04:00
+date: 2020-08-25T00:00:51-03:00
 position: 1
 
 categories:
@@ -17,5 +17,5 @@ Además, el equipo será el responsable de dar una tarea por finalizada. Y, con 
 
 Es responsabilidad del equipo (o de la persona), verificar que cumple con las necesidades del cliente y que contiene cero la menor cantidad de errores. En el caso de los programadores, tanto QA como los MR deben ser vistos como extras/mejoras sobre lo que se hizo, no como una barrera por la que siempre debe pasarse.
 Lo mismo aplica para UX, los diseños no deben verse bloqueados por la falta de tiempo del equipo para validar algún mockup o wireframe. Deben moverse de forma autónoma, validarse con quien se considere necesario (clientes, usuarios, etc), sin tener que esperar una semana por la validación del equipo.
- 
+
 Si fuera sumamente importante que otra persona revisara algo, es responsabilidad de la persona y el equipo que eso ocurra.

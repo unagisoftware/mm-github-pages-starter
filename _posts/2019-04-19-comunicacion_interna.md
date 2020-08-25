@@ -1,6 +1,6 @@
 ---
 title: "Comunicación interna"
-date: 2019-04-19T15:34:30-04:00
+date: 2020-08-25T00:00:53-03:00
 position: 1
 
 categories:
@@ -17,7 +17,7 @@ Antes de escribirle por un chat a alguien o hablarle en persona, debemos pensar 
 
 En cambio, las discusiones que se inician asincrónicamente ayudan a no interrumpir a los demás y obligan a las personas a bajar de forma ordenada sus ideas. Pero a no confundir. Cuando hablamos de interrupción *no estamos diciendo que reunirte es una interrupción*. Si la discusión debe hacerse a través de una reunión o videollamada, está perfecto que así sea. El tema aquí es que el pensamiento debe cambiar completamente para que valoremos el trabajo de los demás. Antes de iniciar una discusión deberíamos preguntar: ¿es esto realmente urgente -y uso un ping- o puede esperar unas horas -y uso message-?
 
-En cualquier caso, las discusiones deben llevarse a cabo en donde corresponda (como el to-do de una tarea, por ejemplo) y sólo con la gente involucrada, para no mandar notificaciones a quien no corresponde. Además, en vez de enviar un mensaje en el chat como "Avisame cuando tengas un ratito que te quiero consultar algo", es mejor enviar un "Avisame cuando tengas un ratito que quiero consultarte por el problema X". De esa forma, la persona que lo lee sabe si es algo urgente o puede esperar. 
+En cualquier caso, las discusiones deben llevarse a cabo en donde corresponda (como el to-do de una tarea, por ejemplo) y sólo con la gente involucrada, para no mandar notificaciones a quien no corresponde. Además, en vez de enviar un mensaje en el chat como "Avisame cuando tengas un ratito que te quiero consultar algo", es mejor enviar un "Avisame cuando tengas un ratito que quiero consultarte por el problema X". De esa forma, la persona que lo lee sabe si es algo urgente o puede esperar.
 
 Si, como ocurre muchas veces, la discusión se extiende demasiado sin llegar a nada concreto o se generan confusiones, es mejor pasar a una reunión presencial o a un chat. No tiene sentido tener un mensaje con 30 comentarios que giran en torno a la mismo.
 

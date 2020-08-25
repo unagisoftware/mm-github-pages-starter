@@ -1,6 +1,6 @@
 ---
 title: "¿Por qué, Cómo, Qué? "
-date: 2019-04-18T15:34:30-04:00
+date: 2020-08-25T00:00:59-03:00
 position: 1
 toc: true
 toc_label: "Qué hay en esta página"
@@ -12,12 +12,12 @@ tags:
 ---
 
 Lo primero que uno debe hacer al desarrollar una aplicación es entender el problema.
-Muchos de nosotros estamos acostumbrados a pensar en un problema partiendo por la solución. Recibimos un pedido de un cliente, creemos entender todo y nos ponemos a diseñar una posible solución casi inmediatamente. Apenas dedicamos tiempo a preguntarnos cuál es el origen de dicho requerimiento, que ya estamos trabajando en cómo podemos solucionarlo. 
+Muchos de nosotros estamos acostumbrados a pensar en un problema partiendo por la solución. Recibimos un pedido de un cliente, creemos entender todo y nos ponemos a diseñar una posible solución casi inmediatamente. Apenas dedicamos tiempo a preguntarnos cuál es el origen de dicho requerimiento, que ya estamos trabajando en cómo podemos solucionarlo.
 Luego, a medida que vamos diagramando lo que podría tener nuestra solución, encontramos cosas nuevas que originalmente no habíamos contemplado. Este es un síntoma de que el problema no quedó claro.
 
 Siguiendo un ejemplo de la gente de Basecamp:
 
-> "Un cliente pidió que agregáramos un módulo de permisos de usuarios más sofisticado. En vez de dedicar un ciclo entero a cumplir con el pedido, nos pusimos a analizar el problema y resultó que alguien había archivado un documento sin saber que, al hacerlo, el documento desaparecía para todos los demás usuarios. 
+> "Un cliente pidió que agregáramos un módulo de permisos de usuarios más sofisticado. En vez de dedicar un ciclo entero a cumplir con el pedido, nos pusimos a analizar el problema y resultó que alguien había archivado un documento sin saber que, al hacerlo, el documento desaparecía para todos los demás usuarios.
 > Con esa información en nuestro poder, en vez de crear una regla para prevenir que algunos usuarios puedan archivar, decidimos agregar una alerta sobre el botón, para explicar cómo esa acción podría afectar al resto.
 > El cliente quedó conforme, el problema no ocurrió más y, para nosotros, significó un 1hs de trabajo contra un ciclo de 6 semanas."
 
@@ -33,7 +33,7 @@ Todas estas preguntas, nos permitirán entender la razón de lo que estamos haci
 ## Soluciones sin detalles
 Una vez identificado el porqué ya podemos movernos a descubrir el *qué* y el *cómo*. El mayor riesgo aquí es entrar en un excesivo nivel de detalle. A más detalles introduzcamos en la solución, más riesgo hay de perder de vista lo importante. Por eso, una de las claves es todavía no meterese con pantallas ni diseños visuales y *trabajar con técnicas/herramientas que permitan moverse con velocidad*.
 
-Para mantener el foco en lo importante y obviar los detalles, vamos a utilizar unos diagramas bastante básicos que incluyen Entidades, Acciones e Interacciones. 
+Para mantener el foco en lo importante y obviar los detalles, vamos a utilizar unos diagramas bastante básicos que incluyen Entidades, Acciones e Interacciones.
 
 La idea es que este diagrama permita responder 3 preguntas que ayuden a definir el qué:
 * ¿Cuáles son las componentes o funcionalidades claves?
@@ -45,13 +45,13 @@ Para ir directo a un ejemplo, veamos un diagrama que usamos recientemente con SA
 ![Entidades e Interacciones](/images/entidades_interacciones.png)
 
 Estos diagramas se componen de tres elementos:
-- *entidades*: cosas que se accedan, pantallas, procesos complejos, menús, modals, etc. _Son las que se representan arriba, subrayadas_. 
+- *entidades*: cosas que se accedan, pantallas, procesos complejos, menús, modals, etc. _Son las que se representan arriba, subrayadas_.
 - *acciones o puntos de contacto*: son las cosas sobre las que el usuario puede actuar, como botones, campos o textos que leer. _Son todas los items dentro de la entidad_.
 - *interacciones*: son las conexiones entre las entidades y/o puntos de contacto. Reflejan cómo el usuario puede llegar de un lugar a otro. _Son las flechas que conectan las entidades_.
 
 En el ejemplo de arriba, el sistema necesita calcular la deuda de un establecimiento para un conjunto de períodos seleccionados. Las entidades son:
 - La pantalla de Determinación de deuda, donde el usuario ve los datos del establecimiento y los períodos a seleccionar
-- El proceso para calcular la deuda. _Sí, un proceso que quizás no es visible para el usuario, también es una entidad_. 
+- El proceso para calcular la deuda. _Sí, un proceso que quizás no es visible para el usuario, también es una entidad_.
 - El cambio de estado.
 
 Lo que está dentro de cada entidad son las acciones o puntos de contacto. En este caso incluye todos los botones, campos, selectores y textos que ve el usuario. Finalmente, las flechas naranjas muestran los posibles flujo. Por ejemplo, en la segunda Entidad, tras confirmar el cálculo de deuda, se genera un cambio de estado.
@@ -74,7 +74,7 @@ Como aquí estamos analizando el *cómo*, es fundamental colaborar con quien sep
 Los bocetos nos ayudarán de muchas maneras:
 - Permiten hacernos las preguntas necesarias para completar un buen análisis,
 - Sirven para disparar el trabajo de diseño y programación, en paralelo. El/la programador/a hace cosas en el backend mientras el diseñador arma los wireframes,
-- Le dan libertad al diseñador sin afectar la experiencia de usuario. Si hubiéramos hecho un wireframe, el diseñador se encontraría con límites de antemano y con menos espacio para su creatividad. 
+- Le dan libertad al diseñador sin afectar la experiencia de usuario. Si hubiéramos hecho un wireframe, el diseñador se encontraría con límites de antemano y con menos espacio para su creatividad.
 
 ## Bajando los requerimientos
 Una vez que está todo definido, debemos armar un documento que denominaremos *Pitch* y será la antesala del *Kickoff*. El pitch debe contener:
@@ -84,7 +84,7 @@ Una vez que está todo definido, debemos armar un documento que denominaremos *P
 - los detalles que valga la pena remarcar sobre la solución, para evitar futuros problemas,
 - lo que queda excluido, si hubiera algo que específicamente se decidió dejar fuera porque no es prioritario o para no comprometer los plazos,
 
-Notar que el pitch no incluye ningún wireframe ni mockup. Esto es a propósito, ya que, en caso de ser necesarios, deben realizarse como parte del ciclo. Eso permitirá que haya mucho más trabajo en equipo entre diseñadores y desarrolladores, lo que vemos como muy positivo. 
+Notar que el pitch no incluye ningún wireframe ni mockup. Esto es a propósito, ya que, en caso de ser necesarios, deben realizarse como parte del ciclo. Eso permitirá que haya mucho más trabajo en equipo entre diseñadores y desarrolladores, lo que vemos como muy positivo.
 
 Por otro lado, presenta el desafío de tener que hacer trabajos visuales en un plazo más acotado de tiempo que también le permita llegar al dev a maquetarlo. Si bien esto es cierto, creemos que el tiempo más profundo que dediquemos al análisis nos permitirá adaptarnos para llegar a trabajos logrados dentro de las 3 semanas que duran los ciclos. *No se trata de llegar a tener X, sino de llegar a la mejor versión de X en un tiempo predefinido*.
 

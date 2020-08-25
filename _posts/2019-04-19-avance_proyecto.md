@@ -1,6 +1,6 @@
 ---
 title: "Avance de un proyecto"
-date: 2019-04-19T15:34:30-04:00
+date: 2020-08-25T00:00:49-03:00
 
 categories:
   - ciclos
@@ -10,7 +10,7 @@ tags:
 ---
 
 ## ¿Cómo vamos?
-Nuestro objetivo tiene que ser entregar el ciclo a tiempo. Para lograrlo, es sumamente necesario saber cómo estamos progresando y qué cosas restan. 
+Nuestro objetivo tiene que ser entregar el ciclo a tiempo. Para lograrlo, es sumamente necesario saber cómo estamos progresando y qué cosas restan.
 
 Para ello, podríamos ver las tareas que no están marcadas como finalizadas, pero esa no es suficiente información para concluir nada. Puede ser que no se hayan definido todas las tareas. También, podríamos asociar una estimación a cada tarea, pero suele no ser muy precisa. Es por esto que, en lugar de hacernos la pregunta "¿cuánto queda?" o "¿cuánto nos va a llevar esto?", *la pregunta debe ser "¿Qué desconocemos?"*. Una vez que no hay nada desconocido, la estimación es más fácil.
 
@@ -21,7 +21,7 @@ Se llaman Hill Chart o Gráfico de la Montaña, porque se piensa al trabajo como
 
 La primera fase se representa con una cuesta arriba, en donde se analizará, investigará y definirá el enfoque para la solución. Hay una idea básica de la tarea a realizar, pero hay mucha incertidumbre y no se sabe cómo será la solución finalmente o cómo resolver todos los problemas. Está más asociado con lo desconocido.
 
-Eventualmente, se llega a un punto en que no hay más problemas sin resolver o se tiene clara la solución a desarrollar. Eso sería el equivalente a haber llegado a la cima de la montaña. Desde ahí, se puede ver más claramente el camino de bajada, que es la segunda fase. 
+Eventualmente, se llega a un punto en que no hay más problemas sin resolver o se tiene clara la solución a desarrollar. Eso sería el equivalente a haber llegado a la cima de la montaña. Desde ahí, se puede ver más claramente el camino de bajada, que es la segunda fase.
 
 La segunda fase es la montaña cuesta abajo, y se refiere a la ejecución del trabajo. Está más asociado con lo conocido.
 
@@ -31,13 +31,13 @@ Los HC se pueden armar partiendo *desde una Lista de ToDo's*:
 
 ![Crear hill chart](images/crear-hill-chart.gif)
 
-La idea es que, la persona a cargo del módulo indique, moviendo el puntito a través de la curva, qué avance cree que tiene el módulo en cuestión. Se espera que, una vez que el puntito esté arriba de la colina, sea más fácil de estimar porque ya está todo definido. Desde ahí, con un mejor panorama, sólo restaría definir tiempo para la ejecución. 
+La idea es que, la persona a cargo del módulo indique, moviendo el puntito a través de la curva, qué avance cree que tiene el módulo en cuestión. Se espera que, una vez que el puntito esté arriba de la colina, sea más fácil de estimar porque ya está todo definido. Desde ahí, con un mejor panorama, sólo restaría definir tiempo para la ejecución.
 
 ![Moviendo el puntito que representa del módulo](images/hill-chart-hero.gif)
 
 De esta forma, mirando los gráficos de los diferentes módulos, podemos tener un pantallazo a simple vista para saber cómo viene el ciclo. Si por ejemplo, vemos que un puntito está muchos días clavado en la fase de subida, puede que sea necesaria alguna ayuda para desbloquear. O podría ser que algo se complicó y conviene charlar con el cliente para achicar el alcance.
 
-Algo muy importante es que el puntito se debe mover con trabajo hecho, no con trabajo asumido. 
+Algo muy importante es que el puntito se debe mover con trabajo hecho, no con trabajo asumido.
 
 Finalmente, más allá de que podría ocurrir, no debería ser frecunete mover un puntito desde la curva de la derecha hacia la de la izquierda. Ese sería un indicio de que no se pensó y analizó en profundidad el problema y hay que volver hacia atrás.
 
