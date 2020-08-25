@@ -1,4 +1,15 @@
-# Tareas
+---
+title: "Tareas"
+date: 2019-04-19T15:34:30-04:00
+position: 1
+
+categories:
+  - ciclos
+tags:
+  - ciclos
+  - metodologias
+---
+
 Las únicas tareas que tienen que estar en el proyecto son las del ciclo actual. Cuando arranca un nuevo ciclo, el listado de tareas debería estar completamente vacío. No debería quedar nada del ciclo anterior.
 
 El pitcher puede sugerir algunas tareas pero el mismo equipo es el encargado de crearlas. Al principio, las tareas que pueden surgir son las más evidentes pero lo natural es que, a medida que el equipo se vaya metiendo más en el desarrollo, aparezcan las “verdaderas” tareas. El equipo tiene total libertad de manipular -agregar/quitar/modificar- las tareas como quiera, registrando las decisiones que se vayan tomando para que todos puedan estar al tanto.
