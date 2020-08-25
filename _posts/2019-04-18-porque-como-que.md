@@ -12,7 +12,6 @@ tags:
   - metodologias
 ---
 
-# ¿Por qué, Cómo, Qué? 
 Lo primero que uno debe hacer al desarrollar una aplicación es entender el problema.
 Muchos de nosotros estamos acostumbrados a pensar en un problema partiendo por la solución. Recibimos un pedido de un cliente, creemos entender todo y nos ponemos a diseñar una posible solución casi inmediatamente. Apenas dedicamos tiempo a preguntarnos cuál es el origen de dicho requerimiento, que ya estamos trabajando en cómo podemos solucionarlo. 
 Luego, a medida que vamos diagramando lo que podría tener nuestra solución, encontramos cosas nuevas que originalmente no habíamos contemplado. Este es un síntoma de que el problema no quedó claro.
