@@ -43,7 +43,7 @@ La idea es que este diagrama permita responder 3 preguntas que ayuden a definir 
 
 Para ir directo a un ejemplo, veamos un diagrama que usamos recientemente con SADOP:
 
-![Entidades e Interacciones](/assets/images/entidades_interacciones.png)
+![Entidades e Interacciones](/images/entidades_interacciones.png)
 
 Estos diagramas se componen de tres elementos:
 - *entidades*: cosas que se accedan, pantallas, procesos complejos, menús, modals, etc. _Son las que se representan arriba, subrayadas_. 
@@ -66,9 +66,9 @@ Una vez que tengamos el qué, podemos pasar al *cómo*. Aquí vamos a empezar a 
 
 Por ello, vamos a usar los bocetos de Brocha Gorda. Estos bocetos se llaman así, en referencia al uso de un pincel grueso que impide meterse con detalles finos. El objetivo de estos bocetos es que, quien los ve, pueda hacerse una idea general de la pantalla sin ser demasiado concreto.
 
-![Formulario con explicación al costadito](/assets/images/form.png)
+![Formulario con explicación al costadito](/images/form.png)
 
-![Otro boceto](/assets/images/list.png)
+![Otro boceto](/images/list.png)
 
 Como aquí estamos analizando el *cómo*, es fundamental colaborar con quien sepa los detalles técnicos de la implementación, para confirmar si lo que se imaginó es complicado de lograr en los plazos disponibles, o si ya hay algún componente que se pueda reutilizar.
 
@@ -93,11 +93,11 @@ El pitch se debe crear en paralelo con el ciclo actual. Es decir, mientras se es
 
 Una vez que culmina el ciclo actual, hay que escoger un Pitch. Decimos escoger uno, porque podríamos tener varios. Esto es porque quedaron pitches de análisis anteriores o porque una o varias personas realizaron el análisis de diferentes funcionalidades.
 
-![Kickoffeando](/assets/images/kickoffeando.png)
+![Kickoffeando](/images/kickoffeando.png)
 
 En resumen, las nuevas metodologías plantean trabajar con diferentes niveles de abstracción. En primer lugar, centrarse en el problema y entender qué es lo que queremos solucionar. Luego, trabajar sobre posibles soluciones de una forma rápida, que permita avanzar y retroceder ágilmente, sin caer en detalles que no aportan para la solución del problema. Para ello, tenemos dos alternativas: los diagramas de entidades e interacciones y los bocetos de brocha gorda. Finalmente, la bajada de todo el análisis en un Pitch que explique por qué es importante dedicar tiempo en ello.
 
 En líneas generales, sería algo así:
 
-![Proceso](/assets/images/proceso.png)
+![Proceso](/images/proceso.png)
 
