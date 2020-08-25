@@ -1,4 +1,16 @@
-# Comunicación interna
+---
+title: "Comunicación interna"
+date: 2019-04-19T15:34:30-04:00
+position: 1
+
+categories:
+  - ciclos
+tags:
+  - ciclos
+  - metodologias
+toc: true
+toc_label: "Qué hay en esta página"
+---
 En Unagi fomentamos las discusiones de forma asincrónica por sobre la sincrónica. Y por discusión no nos referimos a una charla hablada, sino a cualquier tipo de comunicación donde se intercambien ideas. En cualquiera de sus formas, si una discusión forma parte de una tarea, está perfecto que se lleve a cabo. Sea con el cliente, con los usuarios o con alguien del equipo. El tema es cómo se inicia y lleva adelante esa discusión.
 
 Antes de escribirle por un chat a alguien o hablarle en persona, debemos pensar que esa persona puede estar haciendo otra tarea. Si nosotros lo interrumpimos, estamos quitándole el foco de lo que estaba haciendo y dando por hecho que lo nuestro es urgente.
