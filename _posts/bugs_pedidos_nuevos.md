@@ -1,4 +1,3 @@
-# Bugs y pedidos nuevos
 ---
 title: "Bugs y pedidos nuevos"
 date: 2019-04-19T15:34:30-04:00
