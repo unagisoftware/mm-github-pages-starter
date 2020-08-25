@@ -1,4 +1,13 @@
-# Avance de un proyecto
+---
+title: "Avance de un proyecto"
+date: 2019-04-19T15:34:30-04:00
+
+categories:
+  - ciclos
+tags:
+  - ciclos
+  - metodologias
+---
 
 ## ¿Cómo vamos?
 Nuestro objetivo tiene que ser entregar el ciclo a tiempo. Para lograrlo, es sumamente necesario saber cómo estamos progresando y qué cosas restan. 
