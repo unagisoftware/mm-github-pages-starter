@@ -1,4 +1,14 @@
-# Responsabilidades
+---
+title: "Responsabilidades"
+date: 2019-04-19T15:34:30-04:00
+position: 1
+
+categories:
+  - ciclos
+tags:
+  - ciclos
+  - metodologias
+---
 Debemos desterrar de Unagi el concepto de tareas asignadas, lo que se asigna son proyectos.
 
 Una vez que un equipo es asignado a un proyecto, el equipo debe ser el responsable de crear las tareas, lograr que el ciclo avance, investigar sobre temas desconocidos, comunicarse con los clientes y ajustar el alcance del ciclo si es necesario.
