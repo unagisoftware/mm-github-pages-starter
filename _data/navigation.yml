@@ -1,5 +1,5 @@
 main:
   - title: "Inicio"
-    url: /posts/
+    url: /
   - title: "¿Qué es?"
     url: /about/
