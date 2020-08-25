@@ -1,4 +1,17 @@
-# Comunicación con los clientes
+---
+title: "Comunicación con los clientes"
+date: 2019-04-19T15:34:30-04:00
+position: 1
+
+categories:
+  - ciclos
+tags:
+  - ciclos
+  - metodologias
+toc: true
+toc_label: "Qué hay en esta página"
+---
+
 La comunicación con los clientes debe ser de la forma más asincrónica posible. Los clientes tienen que entender que, cada vez que nos llaman por teléfono, nos están interrumpiendo.
 Lo ideal sería que los clientes nos envíen las cosas por escrito. Les tenemos que explicar cómo queremos que nos informen sus necesidades e incluso buscar herramientas de comunicación que se adecúen a las necesidades de cada cliente. Idealmente, no sería por email, sino en un gdoc, gsheet, trello, Basecamp, etc.
 
