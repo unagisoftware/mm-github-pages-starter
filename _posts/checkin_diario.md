@@ -1,4 +1,14 @@
-# Check-ins diarios
+---
+title: "Check-ins diarios"
+date: 2019-04-19T15:34:30-04:00
+position: 1
+
+categories:
+  - ciclos
+tags:
+  - ciclos
+  - metodologias
+---
 Creemos que los check-ins tienen un valor muy importante para Unagi. Son el momento de volcar decisiones, sentimientos y sensaciones para que el resto del equipo, o mi futuro yo, sepa qué pasó o cómo me siento. Creemos que los check-ins son un arma increíble para el día a día y para viajar al pasado. Sin embargo, vamos a hacerlos opcionales.
 
 ## ¿Por qué?
