@@ -109,9 +109,11 @@ Además, no se limita a una única persona, pero tampoco debe ser un equipo muy 
 Como no nos gusta encasillar a la gente en un Rol, vamos a usar el clásico concepto de Rol vs Sombrero. ¿En qué consiste? En lugar de tener un rol asignado de antemano, existen Sombreros que la gente se va poniendo en función de lo que vaya haciendo. 
 
 Para lo que son los cliclos y los pitches, vamos a tener 2 sombreros:
+
 ![Ciclista vs Pitcher](/images/ciclista_pitcher.png)
 
 Quien tiene el sombrero de Ciclista está implementando un ciclo y, quien tiene el sombrero de Pitcher, se encarga de armar los Pitches. 
 
 ¿Y no se pueden tener 2 sombreros? Claro que sí, puede ser por ejemplo que un diseñador esté armando wireframes para el ciclo actual, mientras participa de moldear el próximo ciclo.
+
 ![Ciclo Actual vs Moldeando](/images/actual_vs_moldeando.png)
