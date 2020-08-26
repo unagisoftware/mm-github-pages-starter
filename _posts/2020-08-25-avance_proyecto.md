@@ -1,6 +1,6 @@
 ---
 title: "Avance de un proyecto"
-date: 2020-08-25T00:00:49-03:00
+date: 2020-08-25T00:00:11-03:00
 
 categories:
   - ciclos

@@ -1,6 +1,6 @@
 ---
 title: "Check-ins diarios"
-date: 2020-08-25T00:00:50-03:00
+date: 2020-08-25T00:00:10-03:00
 position: 1
 
 categories:

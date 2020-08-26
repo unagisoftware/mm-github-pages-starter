@@ -1,6 +1,6 @@
 ---
 title: "Comunicación interna"
-date: 2020-08-25T00:00:53-03:00
+date: 2020-08-25T00:00:07-03:00
 position: 1
 
 categories:

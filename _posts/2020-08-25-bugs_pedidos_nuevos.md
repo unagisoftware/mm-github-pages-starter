@@ -1,6 +1,6 @@
 ---
 title: "Bugs y pedidos nuevos"
-date: 2020-08-25T00:00:57-03:00
+date: 2020-08-25T00:00:03-03:00
 
 categories:
   - ciclos
