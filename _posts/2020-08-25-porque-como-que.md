@@ -100,3 +100,20 @@ En líneas generales, sería algo así:
 
 ![Proceso](/images/proceso.png)
 
+## ¿Quién escribe el Pitch?
+El pitch requiere de cierto conocimiento de la historia del proyecto y del contexto. Por ello, la persona a cargo del Pitch tiene que saber qué preguntas hacer para poder capturar de forma precisa el *por qué* del problema, así como elaborar bosquejos del *qué* y el *cómo*. Esto no significa que es necesario poseer conocimientos técnicos, pero sí estratégicos y saber aplicar el sentido común para poder pensar una solución. 
+
+Además, no se limita a una única persona, pero tampoco debe ser un equipo muy grande porque podría generar demasiado ruido y traer más dudas que certezas. El moldeado del ciclo debe ser liderado por una persona, colaborando con una o dos personas más cuando sea necesario.
+
+### Rol vs Sombrero
+Como no nos gusta encasillar a la gente en un Rol, vamos a usar el clásico concepto de Rol vs Sombrero. ¿En qué consiste? En lugar de tener un rol asignado de antemano, existen Sombreros que la gente se va poniendo en función de lo que vaya haciendo. 
+
+Para lo que son los cliclos y los pitches, vamos a tener 2 sombreros:
+
+![Ciclista vs Pitcher](/images/ciclista_pitcher.png)
+
+Quien tiene el sombrero de Ciclista está implementando un ciclo y, quien tiene el sombrero de Pitcher, se encarga de armar los Pitches. 
+
+¿Y no se pueden tener 2 sombreros? Claro que sí, puede ser por ejemplo que un diseñador esté armando wireframes para el ciclo actual, mientras participa de moldear el próximo ciclo.
+
+![Ciclo Actual vs Moldeando](/images/actual_vs_moldeando.png)
