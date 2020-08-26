@@ -42,7 +42,7 @@ La idea es que este diagrama permita responder 3 preguntas que ayuden a definir 
 
 Para ir directo a un ejemplo, veamos un diagrama que usamos recientemente con SADOP:
 
-![Entidades e Interacciones](/images/entidades_interacciones.png)
+![Entidades e Interacciones](/assets/images/entidades_interacciones.png)
 
 Estos diagramas se componen de tres elementos:
 - *entidades*: cosas que se accedan, pantallas, procesos complejos, menús, modals, etc. _Son las que se representan arriba, subrayadas_.
@@ -65,9 +65,9 @@ Una vez que tengamos el qué, podemos pasar al *cómo*. Aquí vamos a empezar a 
 
 Por ello, vamos a usar los bocetos de Brocha Gorda. Estos bocetos se llaman así, en referencia al uso de un pincel grueso que impide meterse con detalles finos. El objetivo de estos bocetos es que, quien los ve, pueda hacerse una idea general de la pantalla sin ser demasiado concreto.
 
-![Formulario con explicación al costadito](/images/form.png)
+![Formulario con explicación al costadito](/assets/images/form.png)
 
-![Otro boceto](/images/list.png)
+![Otro boceto](/assets/images/list.png)
 
 Como aquí estamos analizando el *cómo*, es fundamental colaborar con quien sepa los detalles técnicos de la implementación, para confirmar si lo que se imaginó es complicado de lograr en los plazos disponibles, o si ya hay algún componente que se pueda reutilizar.
 
@@ -92,13 +92,13 @@ El pitch se debe crear en paralelo con el ciclo actual. Es decir, mientras se es
 
 Una vez que culmina el ciclo actual, hay que escoger un Pitch. Decimos escoger uno, porque podríamos tener varios. Esto es porque quedaron pitches de análisis anteriores o porque una o varias personas realizaron el análisis de diferentes funcionalidades.
 
-![Kickoffeando](/images/kickoffeando.png)
+![Kickoffeando](/assets/images/kickoffeando.png)
 
 En resumen, las nuevas metodologías plantean trabajar con diferentes niveles de abstracción. En primer lugar, centrarse en el problema y entender qué es lo que queremos solucionar. Luego, trabajar sobre posibles soluciones de una forma rápida, que permita avanzar y retroceder ágilmente, sin caer en detalles que no aportan para la solución del problema. Para ello, tenemos dos alternativas: los diagramas de entidades e interacciones y los bocetos de brocha gorda. Finalmente, la bajada de todo el análisis en un Pitch que explique por qué es importante dedicar tiempo en ello.
 
 En líneas generales, sería algo así:
 
-![Proceso](/images/proceso.png)
+![Proceso](/assets/images/proceso.png)
 
 ## ¿Quién escribe el Pitch?
 El pitch requiere de cierto conocimiento de la historia del proyecto y del contexto. Por ello, la persona a cargo del Pitch tiene que saber qué preguntas hacer para poder capturar de forma precisa el *por qué* del problema, así como elaborar bosquejos del *qué* y el *cómo*. Esto no significa que es necesario poseer conocimientos técnicos, pero sí estratégicos y saber aplicar el sentido común para poder pensar una solución. 
@@ -110,10 +110,10 @@ Como no nos gusta encasillar a la gente en un Rol, vamos a usar el clásico conc
 
 Para lo que son los cliclos y los pitches, vamos a tener 2 sombreros:
 
-![Ciclista vs Pitcher](/images/ciclista_pitcher.png)
+![Ciclista vs Pitcher](/assets/images/ciclista_pitcher.png)
 
 Quien tiene el sombrero de Ciclista está implementando un ciclo y, quien tiene el sombrero de Pitcher, se encarga de armar los Pitches. 
 
 ¿Y no se pueden tener 2 sombreros? Claro que sí, puede ser por ejemplo que un diseñador esté armando wireframes para el ciclo actual, mientras participa de moldear el próximo ciclo.
 
-![Ciclo Actual vs Moldeando](/images/actual_vs_moldeando.png)
+![Ciclo Actual vs Moldeando](/assets/images/actual_vs_moldeando.png)
