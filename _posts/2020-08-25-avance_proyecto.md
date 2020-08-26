@@ -25,15 +25,15 @@ Eventualmente, se llega a un punto en que no hay más problemas sin resolver o s
 
 La segunda fase es la montaña cuesta abajo, y se refiere a la ejecución del trabajo. Está más asociado con lo conocido.
 
-![Concepto de Hill Chart](images/hill-concept.png)
+![Concepto de Hill Chart](images/assets/hill-concept.png)
 
 Los HC se pueden armar partiendo *desde una Lista de ToDo's*:
 
-![Crear hill chart](images/crear-hill-chart.gif)
+![Crear hill chart](images/assets/crear-hill-chart.gif)
 
 La idea es que, la persona a cargo del módulo indique, moviendo el puntito a través de la curva, qué avance cree que tiene el módulo en cuestión. Se espera que, una vez que el puntito esté arriba de la colina, sea más fácil de estimar porque ya está todo definido. Desde ahí, con un mejor panorama, sólo restaría definir tiempo para la ejecución.
 
-![Moviendo el puntito que representa del módulo](images/hill-chart-hero.gif)
+![Moviendo el puntito que representa del módulo](images/assets/hill-chart-hero.gif)
 
 De esta forma, mirando los gráficos de los diferentes módulos, podemos tener un pantallazo a simple vista para saber cómo viene el ciclo. Si por ejemplo, vemos que un puntito está muchos días clavado en la fase de subida, puede que sea necesaria alguna ayuda para desbloquear. O podría ser que algo se complicó y conviene charlar con el cliente para achicar el alcance.
 
