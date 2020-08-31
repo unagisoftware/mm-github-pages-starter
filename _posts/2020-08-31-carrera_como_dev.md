@@ -49,7 +49,7 @@ En este sentido, hemos agrupado dos tipos de aptitudes que esperamos que todos l
 - Responsabilidades que puede absorber
 - Estimación de tiempos: ¿puede estimar cuánto llevará realizar una tarea con precisión?
 
-### Duros
+### Blandos
 - Enfrentar problemas
 - Trabajar en equipo
 - Idioma
