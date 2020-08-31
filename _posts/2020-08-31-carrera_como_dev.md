@@ -10,7 +10,7 @@ Unagi nació con el objetivo de que todos encontremos el mejor ambiente (humano 
 
 Por esto, hemos creado un programa de carrera dentro de la empresa.
 
-![career_path](/images/assets/career_path.png)
+![career_path](/assets/images/career_path.png)
 
 En este programa, detallamos los perfiles a los que puede aspirar una persona que esté interesada en el desarrollo de software dentro de Unagi. Es importante entender que estas categorizaciones no son determinantes ni tampoco funcionan como checklists. Por el contrario, son una guía para poder evaluar y discutir individualmente con cada uno de los que trabajan en la empresa. Todos debemos utilizarlas como guías de referencia para identificar aquellas áreas sobre las que debemos trabajar (y/o mantener) para poder ir desarrollándonos profesionalmente y creciendo.
 
