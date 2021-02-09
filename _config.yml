@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Unagi Playbook
+title_separator: "|"
 email: info@unagi.com.ar
 description: >- # this means to ignore newlines until "baseurl:"
   Unagi Playbook. Procesos, rituales, metodologías.
@@ -58,7 +59,7 @@ plugins:
 author:
   name   : "Unagi"
   avatar : "/assets/images/logo.png"
-  bio    : "En esta guía les queremos compartir lo que es Unagi, su cultura, sus valores y sus procesos.."
+  bio    : "En esta guía les queremos compartir lo que es Unagi, su cultura, sus valores y sus procesos."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
